@@ -1,2 +1,4 @@
 def a(a,b):
-    a+b
+    result = a
+    result += b
+    return result
